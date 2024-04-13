@@ -1,7 +1,6 @@
-# FURRY TRIMZ
+# template
 
-Furry Trimz is a project born out of a passion for pet care. This application is a single-page-application designed to allow users to book grooming services at a professional pet salon. 
-The project was built using React and Tailwind, providing both functionality and aesthetic design.
+description
 
 ## Demo
 
