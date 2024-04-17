@@ -53,23 +53,23 @@ export const overview = {
   brands: [
     {
       image: FacebookImg,
-      delay: 300,
+      delay: 100,
     },
     {
       image: GoogleImg,
-      delay: 400,
+      delay: 200,
     },
     {
       image: CocaColaImg,
-      delay: 500,
+      delay: 300,
     },
     {
       image: LinkedInImg,
-      delay: 600,
+      delay: 400,
     },
     {
       image: SamsungImg,
-      delay: 700,
+      delay: 500,
     },
   ],
 };
@@ -121,14 +121,14 @@ export const product = {
       title: "Cloud server",
       subtitle:
         "Elevate your business with cloud server solutions, ensuring seamless operations and unmatched performance.",
-      delay: 400,
+      delay: 300,
     },
     {
       icon: CardIconImg3,
       title: "Pure Javascript",
       subtitle:
         "Experience limitless possibilities by harnessing the full capabilities of Pure JavaScript for your projects.",
-      delay: 600,
+      delay: 400,
     },
   ],
 };
@@ -160,7 +160,7 @@ export const pricing = {
       price: "$19.99/",
       userAmount: "up to 3 user + 1.99 per user",
       btnText: "Get this",
-      delay: 600,
+      delay: 400,
     },
     {
       icon: PricingIcon3,
@@ -173,7 +173,7 @@ export const pricing = {
       price: "$29.99/",
       userAmount: "up to 3 user + 1.99 per user",
       btnText: "Get this",
-      delay: 900,
+      delay: 500,
     },
   ],
 };

@@ -23,20 +23,20 @@ const Header = () => {
       } py-6 lg:py-4 fixed w-full transition-all z-10`}
     >
       <div className="container mx-auto flex justify-between items-center">
-        <a href="#" data-aos="fade-down" data-aos-delay="1000">
+        <a href="#" data-aos="fade-down" data-aos-delay="600">
           <img src={logo} alt="" />
         </a>
         <div
           className="hidden lg:flex"
           data-aos="fade-down"
-          data-aos-delay="1200"
+          data-aos-delay="800"
         >
           <Nav />
         </div>
         <button
           className="btn btn-sm btn-outline hidden lg:flex"
           data-aos="fade-down"
-          data-aos-delay="1400"
+          data-aos-delay="1000"
         >
           {btnText}
         </button>
